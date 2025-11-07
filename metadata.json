@@ -1,0 +1,5 @@
+{
+  "name": "Voice Generator",
+  "description": "โปรแกรมสำหรับแปลงการพิมพ์เป็ยงเสียง",
+  "requestFramePermissions": []
+}
